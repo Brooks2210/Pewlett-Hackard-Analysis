@@ -2,8 +2,8 @@
 ## Overview:
 Pewlett-Hackard has asked us to determine how many people are eligible for retirement and among other things what departments they are from and what titles do they hold. Pewlett-Hackard is a well-established company that has been around a long time and they fear that they will be caught off guard by how many people might be retiring soon. In addition, we were asked to determine how many people could qualify for a mentorship program that they are establishing to help ease the transition of new employees. We will use entity relationship diagrams created in QuickDBD as well as PgAdmin 4 to run all our SQL queries.
 
-## Results:
-## While our analysis required many steps, one of the first results was the number of people eligible to retire. According to the data compiled, over 90,000 individuals can retire in the next five years. This represents an enormous number of the total number of employees currently working at Pewlett-Hackard. The screenshot below shows the numbers and job titles of those eligible to retire. 
+### Results:
+### While our analysis required many steps, one of the first results was the number of people eligible to retire. According to the data compiled, over 90,000 individuals can retire in the next five years. This represents an enormous number of the total number of employees currently working at Pewlett-Hackard. The screenshot below shows the numbers and job titles of those eligible to retire. 
 
 ![retiring_titles.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.png)
 
