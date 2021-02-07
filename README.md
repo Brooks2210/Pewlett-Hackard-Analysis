@@ -25,8 +25,19 @@
 
 ![mentorship_eligibility.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
 
-
 ## Conclusions
+
+#### The biggest take away from the Pewlett-Hackard analysis is that most of the institutional knowledge within the company will be retiring in the next four years. Over 90,000 employees or a third of workforce is eligible to retire. Future Human Resource projections need to be more proactive in their data collection and analysis in order to prevent this type of scenario again.
+
+#### However not all hope is lost. While the number of mentors is not what Pewlett-Hackard was probably expecting, one area that will help ease the pain is the that those that are eligible for the program make up the most critical areas of the company. As shown below, Senior Staff, Engineers, and Senior Engineers have the largest numbers.
+
+![mentorship_title.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_titles.png)
+
+#### Another silver lining is the fact that Pewlett-Hackard can increase the eligibility pool of the mentorship program. By allowing those that have retired in the past five years the opportunity to participate, they may have the numbers they need to build a successful program.
+
+#### Finally, one aspect of the analysis identified a gender gap in the number of employees. As shown below, Pewhett-Hackard is male dominated and because of this information the company could create more opportunities in computer science for female employees.
+
+![company_gender.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/company_gender.png)
 
 
 
