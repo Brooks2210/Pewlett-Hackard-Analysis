@@ -25,11 +25,9 @@
 
 ![mentorship_eligibility.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.png)
 
-## Key Positions Make Up Mentorship Program
-
-#### While the number of mentors is not what Pewlett-Hackard was probably expecting, one area that will help ease the pain is the that those that are eligible for the program make up the most critical areas of the company. As shown below, Senior Staff, Engineers, and Senior Engineers have the largest numbers.
-
-![mentorship_title.png](https://github.com/Brooks2210/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_titles.png)
 
 ## Conclusions
+
+
+
 
